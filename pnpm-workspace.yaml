@@ -1,0 +1,6 @@
+allowBuilds:
+  esbuild: false
+minimumReleaseAgeExclude:
+  - '@clerk/backend@3.26.1'
+  - '@clerk/nextjs@7.9.19'
+  - react-hook-form@7.91.0

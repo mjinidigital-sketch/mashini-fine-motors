@@ -1,0 +1,11 @@
+{
+  "permissions": {
+    "allow": [
+      "Exec(mkdir)",
+      "Exec(npx convex)",
+      "Exec(rm)",
+      "Exec(taskkill)",
+      "Exec(npx tsc)"
+    ]
+  }
+}
